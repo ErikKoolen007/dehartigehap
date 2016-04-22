@@ -16,7 +16,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        //test git test2
         BestellingUI ui = new BestellingUI();
         ui.setVisible(true);
     }
